@@ -1,7 +1,7 @@
 html, body {
     font-size: 14px;
     margin: 0;
-    min-height: 150px;
+    min-height: 200px;
     padding: 0;
     width: 500px;
     background-color: #ffff; 
@@ -12,9 +12,11 @@ h1 {
     font-size: 21px;
     font-weight: 350;
     margin: 0;
-    color: #a81020;
+    color: #FF0073;
     text-align: center;
+    /* text-decoration-line: underline */
 }
+
 /* 
 a:link, a:visited {
     color: #000;
@@ -37,6 +39,8 @@ a:link, a:visited {
 
 .logo_text {
     margin: 10px;
+    font-size: 28px;
+    color: #3E68CF;
 }
 
 .flex-container {
