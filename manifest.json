@@ -1,8 +1,8 @@
 {
     "background": {},
     "manifest_version": 2,
-    "name": "MSR Support Tools",
-    "description": "Quick launch reports and tools for MSR Support Team",
+    "name": "Time Zone Ext",
+    "description": "Quick access to time zones",
     "version": "1.0.0",
     "icons": {"128": "icon-128.png"},
     "browser_action": {
